@@ -405,7 +405,7 @@ const register = async (
                         'Upgrade to Cody Pro',
                         {
                             modal: true,
-                            detail: `${userMessage}\n\nUpgrade to Cody Pro for unlimited autocomplete suggestions, chat messages and commands.\n\n${retryMessage}`,
+                            detail: `${userMessage}\n\nUpgrade to Cody Pro for increased autocomplete suggestions, chat messages and commands.\n\n${retryMessage}`,
                         },
                         'Upgrade',
                         'See Plans'

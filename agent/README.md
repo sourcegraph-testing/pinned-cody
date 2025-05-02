@@ -150,3 +150,4 @@ update-agent-recordings` to clean unused recordings.
   connection configuration.
 - Run the command `git diff -- ':!*.har.yaml'` to review local changes without the noisy
   diff in `agent/recordings`.
+Hello World

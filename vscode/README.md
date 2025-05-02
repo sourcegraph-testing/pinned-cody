@@ -84,3 +84,4 @@ Cody Enterprise is able to retrieve context from your entire remote codebase usi
 ## More Information
 
 See [https://cody.dev/](https://about.sourcegraph.com/cody?utm_source=marketplace.visualstudio.com&utm_medium=referral) for demos, information and more.
+Hello World
